@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run lint && npm run build",
+    "working_directory": "/tmp/kavia/workspace/code-generation/nextjs-web-application-635132-635141/next_app_frontend"
+}
